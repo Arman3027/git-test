@@ -4,3 +4,7 @@ header{
 footer {
     background-color: black;
 }
+
+article{
+    display: flex;
+}
